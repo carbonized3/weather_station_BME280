@@ -1,0 +1,11 @@
+main.c:62:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:70:6:printTemperature	1
+main.c:76:6:printPressure	1
+main.c:86:6:printHumidity	1
+main.c:92:6:printIllumination	1
+main.c:104:5:main	5
+main.c:177:6:SystemClock_Config	3
+main.c:214:13:MX_I2C2_Init	2
+main.c:248:13:MX_TIM1_Init	4
+main.c:294:13:MX_GPIO_Init	1
+main.c:346:6:Error_Handler	1

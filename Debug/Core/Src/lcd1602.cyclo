@@ -1,0 +1,12 @@
+lcd1602.c:4:13:delay	2
+lcd1602.c:11:13:LCD_WriteData	5
+lcd1602.c:22:13:LCD_Data	1
+lcd1602.c:35:13:LCD_Command	1
+lcd1602.c:47:16:LCD_convertDigitToChar	11
+lcd1602.c:72:6:LCD_SendIntDigit	13
+lcd1602.c:140:6:LCD_SendFloatDigit	1
+lcd1602.c:144:6:LCD_SendString	2
+lcd1602.c:152:6:LCD_SendChar	1
+lcd1602.c:157:6:LCD_Clear	1
+lcd1602.c:162:6:LCD_SetPos	3
+lcd1602.c:179:6:LCD_ini	1
